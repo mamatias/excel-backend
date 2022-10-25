@@ -1,0 +1,8 @@
+# Files
+*.xlsx
+*.xls
+
+# Folders
+__pycache__/
+__pycache__/*
+.venv/
